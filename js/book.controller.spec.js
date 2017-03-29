@@ -15,7 +15,7 @@ describe('Book controller', function() {
     expect(3+2).toEqual(5);
   });
   it ('has a dummy spec to test 3 + 3', function(){
-	  expect(3+3).toEqual(12);
+       expect(3+3).toEqual(6);
   });
 
   describe('$scope.name', function() {
